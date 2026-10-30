@@ -1,2 +1,2 @@
 # Proyecto-SQL-Caso_Estudio_Kiosko
-Trabajo final de Data Academy Latam
+Se realiza una limpieza de informacion, tranformaciones y creacion de tablas para consumo. Ademas se realiza analisis de empresa.
